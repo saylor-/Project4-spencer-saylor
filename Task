@@ -1,0 +1,20 @@
+Project 4
+
+Lava World 
+World changing event based on mouse click, two tiles
+Dude change to lava man
+Lava man uses cursors
+WORLD_EVENT.txt explaining 
+1. How to trigger the event
+2. What should happen after the event is triggered
+3. What the affected entities should do
+4. What the new entity is and how is should behave
+5. The names of each partner and what each did
+
+Extra
+Zombies use dikstra 
+Fireballs which use fairy actions
+Add sheep, using stump characteristic. sapling turns into sheep, 
+Factory Design Pattern, figure out later
+Explanation of what other designs we used 
+Submit short video 
